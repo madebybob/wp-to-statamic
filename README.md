@@ -22,6 +22,15 @@ Sub-questions I'll try to answer:
 7. How can we manage multilingual sites?
 8. How can we test our websites / Statamic parts?
 
+## Motivation
+
+What are the motivation from a developers' perspective to move from Wordpress to another solution?
+
+1. Get **more control** over our codebase
+2. Make it **easier** for developers **to extend and build new features** (instead of ducttaping with actions and filters)
+3. **Gain trust** by testing the specific features we build
+4. **Improve performance** of the website/webshop to provide better experience and get SEO results
+
 ## File structure
 In this readme you'll find and overview of this repo. Each chapter handles one of the questions above. Those are separate markdown files.
 
